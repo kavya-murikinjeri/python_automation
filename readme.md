@@ -24,7 +24,7 @@ I will update this README at the end of every learning session.
 
 ## Day 1
 
-**Date:** YYYY-MM-DD
+**Date:** DD-MM-YYYY
 
 ### What I learned
 
@@ -63,79 +63,3 @@ I will update this README at the end of every learning session.
 Write 3–5 sentences about today's learning experience.
 
 ---
-
-## Day 2
-
-**Date:** YYYY-MM-DD
-
-### What I learned
-
-*
-
-### What I practiced
-
-*
-
-### What I built
-
-*
-
-### Challenges I faced
-
-*
-
-### How I solved them
-
-*
-
-### New things I discovered
-
-*
-
-### Time spent
-
-*
-
-### Tomorrow's plan
-
-*
-
-### Self Reflection
-
----
-
-## Day 3
-
-**Date:** YYYY-MM-DD
-
-### What I learned
-
-*
-
-### What I practiced
-
-*
-
-### What I built
-
-*
-
-### Challenges I faced
-
-*
-
-### How I solved them
-
-*
-
-### New things I discovered
-
-*
-
-### Time spent
-
-*
-
-### Tomorrow's plan
-
-*
