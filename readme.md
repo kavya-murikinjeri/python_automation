@@ -70,10 +70,6 @@ I will update this README at the end of every learning session.
 
 ### Self Reflection
 
-Write 3–5 sentences about today's learning experience.
-
-### Self Reflection
-
 Today, I took my first steps into browser automation with Selenium and strengthened my understanding of Python variables and naming conventions. 
 Setting up Selenium and writing simple scripts helped me see how Python can be used to control a web browser. I also learned why following proper variable naming rules is important for writing clean and readable code. Overall, today's session gave me a solid foundation to build more advanced Selenium automation skills in the coming days.
 

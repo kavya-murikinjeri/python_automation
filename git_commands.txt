@@ -2,3 +2,4 @@ git status
 git add .
 git commit -m "Commit message for github"
 git push -u origin main
+git pull origin main -- to pull latest updates from github
