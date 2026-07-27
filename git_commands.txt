@@ -1,5 +1,6 @@
-git status
-git add .
-git commit -m "Commit message for github"
-git push -u origin main
-git pull origin main -- to pull latest updates from github
+git status -- Shows the current status of your repository, including modified, staged, and untracked files.
+git add . -- Stages all new and modified files in the current directory so they are ready to be committed.
+git commit -m "Commit message for github" -- Saves the staged changes to your local Git repository with a descriptive message.
+git push origin main -- Uploads your local commits from the main branch to the remote GitHub repository.
+git push -u origin main -- Same as git push, but also sets origin/main as the default upstream branch. After this, you can simply use git push and git pull without specifying the branch.
+git pull origin main -- Downloads the latest changes from the remote main branch and merges them into your local branch.
