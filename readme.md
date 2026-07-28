@@ -74,3 +74,54 @@ Today, I took my first steps into browser automation with Selenium and strengthe
 Setting up Selenium and writing simple scripts helped me see how Python can be used to control a web browser. I also learned why following proper variable naming rules is important for writing clean and readable code. Overall, today's session gave me a solid foundation to build more advanced Selenium automation skills in the coming days.
 
 ---
+## Day 2
+
+**Date:** 28-07-2026
+
+### What I learned
+- Learned Python operators (arithmetic, comparison, logical, assignment, and membership operators).
+- Explored strings, string methods, string slicing, and string formatting.
+- Learned about Python collections: lists, tuples, and sets.
+
+### What I practiced
+- Wrote Python programs using operators and strings.
+- Practiced string slicing and formatting with different examples.
+- Worked with lists, tuples, and sets to understand their behavior.
+
+### What I built
+
+- Created simple Python programs to practice operators.
+- Experimented with string methods and slicing.
+- Compared the behavior of lists, tuples, and sets using sample programs.
+
+### Challenges I faced
+
+- Remembering the syntax for string slicing and formatting.
+- Understanding the differences between lists, tuples, and sets.
+- Choosing the appropriate collection type for different scenarios.
+
+### How I solved them
+
+- Practiced multiple examples for each concept.
+- Compared the outputs of lists, tuples, and sets.
+- Repeated string manipulation exercises to strengthen my understanding.
+
+### New things I discovered
+
+- Strings can be sliced to access specific characters or substrings.
+- String formatting makes output more readable and dynamic.
+- Lists are mutable, tuples are immutable, and sets automatically store unique values.
+
+### Time spent
+
+- Approximately 2 hours.
+
+### Tomorrow's plan
+
+- Learn conditional statements (`if`, `elif`, and `else`).
+- Practice more Python problems using strings and collections.
+- Solve beginner-level coding exercises.
+
+### Self Reflection
+
+Today, I strengthened my understanding of Python fundamentals by learning operators, strings, string methods, slicing, string formatting, and Python collections. Practicing these concepts helped me understand how Python stores and manipulates data efficiently. Comparing lists, tuples, and sets gave me a clear understanding of when each data structure should be used. Overall, today's practice improved my confidence in writing basic Python programs and prepared me for learning control flow next.
