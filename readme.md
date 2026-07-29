@@ -125,3 +125,55 @@ Setting up Selenium and writing simple scripts helped me see how Python can be u
 ### Self Reflection
 
 Today, I strengthened my understanding of Python fundamentals by learning operators, strings, string methods, slicing, string formatting, and Python collections. Practicing these concepts helped me understand how Python stores and manipulates data efficiently. Comparing lists, tuples, and sets gave me a clear understanding of when each data structure should be used. Overall, today's practice improved my confidence in writing basic Python programs and prepared me for learning control flow next.
+
+-----------------------------
+## Day 3
+
+**Date:** 29-07-2026
+
+### What I learned
+
+- Revised Python lists, tuples, and sets.
+- Learned more about string formatting.
+- Understood the differences and use cases of Python collections.
+
+### What I practiced
+
+- Solved programs using lists, tuples, and sets.
+- Practiced string formatting with different examples.
+- Performed common operations on Python collections.
+
+### What I built
+
+- Created simple Python programs using lists, tuples, and sets.
+- Wrote programs to format strings with variables and values.
+
+
+### Challenges I faced
+
+- Remembering the methods for different collection types.
+- Choosing the right collection for different situations.
+
+### How I solved them
+
+- Practiced multiple examples.
+- Compared the behavior of lists, tuples, and sets through coding.
+
+### New things I discovered
+
+- String formatting makes code cleaner and easier to read.
+- Each Python collection has its own purpose depending on the problem.
+
+
+### Time spent
+
+- Approximately 2 hours.
+
+### Tomorrow's plan
+
+- Learn conditional statements (`if`, `elif`, `else`).
+- Solve beginner Python problems using conditions.
+
+### Self Reflection
+
+Today, I reinforced my understanding of Python collections and string formatting through practice. Repeating examples helped me become more comfortable with lists, tuples, sets, and formatting output. I feel more confident in using these concepts and am ready to move on to conditional statements.
