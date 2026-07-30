@@ -177,3 +177,38 @@ Today, I strengthened my understanding of Python fundamentals by learning operat
 ### Self Reflection
 
 Today, I reinforced my understanding of Python collections and string formatting through practice. Repeating examples helped me become more comfortable with lists, tuples, sets, and formatting output. I feel more confident in using these concepts and am ready to move on to conditional statements.
+
+--------------------------------
+## Day 4
+
+**Date:** 30-07-2026
+
+### What I learned
+
+* Tuples
+* Dictionaries
+* `if`, `elif`, `else` statements
+* `while` and `for` loops
+* `break` and `continue`
+* `zip()` function
+
+### What I practiced
+
+* Created and accessed tuples and dictionaries.
+* Wrote programs using `if-else` conditions.
+* Practiced `while` and `for` loops.
+* Used `break` to exit a loop and `continue` to skip an iteration.
+* Used `zip()` to combine two lists.
+
+### Time spent
+
+* Approximately 2 hours.
+
+### Tomorrow's plan
+
+* Practice more Python problems using loops and dictionaries.
+* Learn functions.
+
+### Self Reflection
+
+Today, I learned tuples, dictionaries, conditional statements, loops, `break`, `continue`, and the `zip()` function. Practicing these concepts helped me understand how to store data, control program flow, and write more efficient Python programs. I feel more confident with Python fundamentals.
