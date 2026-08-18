@@ -88,3 +88,27 @@ Concepts Learned
      Writing files
      with statement / context manager
 - Python modules and imports
+
+## Day 6
+## Topics Covered
+
+### File Handling
+- Reading text files
+- Writing text files
+- Using `with` statement for file handling
+
+### Excel Automation (OpenPyXL)
+
+#### Writing Excel Files
+- Creating a new Excel workbook
+- Creating worksheets
+- Writing data into cells
+- Saving an Excel workbook
+- Using `Workbook()`
+
+#### Reading Excel Files
+- Loading an existing workbook using `load_workbook()`
+- Accessing worksheets
+- Reading cell values
+- Reading data using cell references (e.g., `A1`, `C3`)
+- Accessing worksheet names
